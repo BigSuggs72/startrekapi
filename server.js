@@ -1,4 +1,4 @@
-// MayanWofle stream on June 1, 2022 after Class 38
+// MayanWolfe stream from June 1, 2022 after Class 38
 const express = require('express')
 const app = express()
 const cors = require('cors')
